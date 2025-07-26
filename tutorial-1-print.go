@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main1() {
 	fmt.Println("Welcome to my quiz game!")
 
 	name := "Edward"
