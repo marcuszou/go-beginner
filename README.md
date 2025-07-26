@@ -1,3 +1,5 @@
-# Tech with Tim - Go Beginner Project Tutorial
+# Go Beginner Tutorial
+
+Coding with Tim
 
 ## Source
